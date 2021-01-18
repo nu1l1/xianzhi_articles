@@ -1,5 +1,5 @@
 # xianzhi_articles
-Thousands of articles on the XianZhi community
+Some articles from the crawler prophet community in 2020
 
 # environment
 Mysql 
@@ -14,6 +14,6 @@ Of course, you can also wait for me to upload the image backup file, but recentl
 
 Because Ali prophet has banned crawlers, this backup should be helpful to some CTF players.
 
-And some of the article's image links come from https://blog.happysec.cn,Replace him with your local one, too!
+And some of the article's image links come from https://blog.happysec.cn, Replace him with your local one, too!
 
 
