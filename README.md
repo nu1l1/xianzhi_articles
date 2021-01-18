@@ -1,7 +1,7 @@
-# xianzhi_articles
+# XianZhi_articles
 Some articles from the crawler prophet community in 2020
 
-# environment
+# Environment
 Mysql 
 
 # Usage
